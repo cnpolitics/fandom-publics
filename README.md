@@ -1,16 +1,19 @@
 ## 关于《粉丝公众》
 
-本书由[张玮玉][zhang]著，中文版由[政见CNPolitics众包翻译组][cnpolitics]译制。英文版由[Routledge][en-edition]出版。
+本书由张玮玉著，中文版由政见CNPolitics众包翻译组译制。**[中文版PDF文档可供自由下载。][pdf]**
 
+[英文版由Routledge出版。][en-edition]
 
 
 ### 作者简介
 
-张玮玉
+[张玮玉][zhang]
 
 新加坡国立大学传播与新媒体系副教授，美国宾西法尼亚大学传播学博士，香港中文大学传播学硕士，南京大学新闻学学士。她主要研究公民参与和传播过程，同时也对新媒体心理学颇有兴趣。有关公民商议（citizen deliberation）的研究著作发表于顶级传播学期刊如*Journal of Communication, Communication Research*，以及*Communication Theory*。有关亚洲国家的公民参与的著述见诸于各级全球性（*Journal of Computer-Mediated Communication*, *International Communication Gazette*）、地区性（*Asian Journal of Communication*）、以及全国性（*Chinese Journal of Communication*）传播期刊。有关新媒体行为的研究发现为信息科技研究期刊、心理学研究期刊以及教育学研究期刊所认可。
 
 ### 译者简介
+
+[政见CNPolitics众包翻译组][cnpolitics]
 
 - **陈博**——爱尔兰国立高威大学残障法与政策研究中心博士生，曾在国内相关领域内的公益法律机构工作。一直相信好翻译的价值，在自己有过一些经验后也深感译事难为。这次能够参与翻译自己研究领域之外的著作，深感荣幸，也不免惶恐，希望能够不辱使命。
 - **胡犀子**——毕业于中国人民大学政治学与行政学系，现为加拿大麦吉尔大学政治学系硕士研究生，主要研究方向为发展中国家的民族关系和腐败治理（中国和东南亚）。不迷信理论，更相信情怀。不看好热闹的争辩，更青睐冷静的旁观。希望做一个安静的文字工作者，也希望能由好奇心带领着自己去探索和发现。
@@ -66,6 +69,7 @@ You do not have to comply with the license for elements of the material in the p
 
 
 
+[pdf]: http://cnpolitics.github.io/fandom-publics/pdf/FandomPublics_CN_v1.0.pdf
 [zhang]: http://www.weiyuzhang.net
 [en-edition]: https://www.routledge.com/products/9781138799264
 [cnpolitics]: http://cnpolitics.org
