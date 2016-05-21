@@ -69,7 +69,7 @@ You do not have to comply with the license for elements of the material in the p
 
 
 
-[pdf]: http://cnpolitics.github.io/fandom-publics/pdf/FandomPublics_CN_v1.0.pdf
+[pdf]: http://cnpolitics.github.io/fandom-publics/pdf/FandomPublics_CN_v1.1.pdf
 [zhang]: http://www.weiyuzhang.net
 [en-edition]: https://www.routledge.com/products/9781138799264
 [cnpolitics]: http://cnpolitics.org
