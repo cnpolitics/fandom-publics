@@ -4,6 +4,13 @@
 
 [英文版由Routledge出版。][en-edition]
 
+### 版本更新
+本书将结合作者、译者及读者反馈，持续修订并发布新版。有意及时追踪更新状况的读者，欢迎关注（watch）本代码仓库，或从发布动态获取[最新版本][latest-release]。
+
+### 读者反馈
+[欢迎读者提出意见，或指正排印错误。][issues]来函前请检索过往反馈，以免重复。
+
+* * *
 
 ### 作者简介
 
@@ -70,6 +77,8 @@ You do not have to comply with the license for elements of the material in the p
 
 
 [pdf]: http://cnpolitics.github.io/fandom-publics/pdf/FandomPublics_CN_v1.1.pdf
+[latest-release]: https://github.com/cnpolitics/fandom-publics/releases/latest
+[issues]: https://github.com/cnpolitics/fandom-publics/issues
 [zhang]: http://www.weiyuzhang.net
 [en-edition]: https://www.routledge.com/products/9781138799264
 [cnpolitics]: http://cnpolitics.org
