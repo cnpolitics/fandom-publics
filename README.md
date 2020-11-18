@@ -80,7 +80,7 @@ You do not have to comply with the license for elements of the material in the p
 [latest-release]: https://github.com/cnpolitics/fandom-publics/releases/latest
 [issues]: https://github.com/cnpolitics/fandom-publics/issues
 [zhang]: http://www.weiyuzhang.net
-[en-edition]: https://www.routledge.com/products/9781138799264
+[en-edition]: https://www.routledge.com/The-Internet-and-New-Social-Formation-in-China-Fandom-Publics-in-the-Making/Zhang/p/book/9781138477216
 [cnpolitics]: http://cnpolitics.org
 [cc]: http://creativecommons.org/licenses/by-nc-nd/4.0/
 [cc-zh]: http://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
